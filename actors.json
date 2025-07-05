@@ -248,10 +248,6 @@
     "Aeroflot"
   ],
   [
-    "Russia",
-    "Russian Post"
-  ],
-  [
     "India",
     "State Bank of India"
   ],
@@ -349,10 +345,6 @@
   ],
   [
     "Egypt",
-    "National Bank of Egypt"
-  ],
-  [
-    "Egypt",
     "Egyptian General Petroleum Corporation"
   ],
   [
@@ -362,14 +354,6 @@
   [
     "Ethiopia",
     "Ethiopian Electric Power Corporation"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Roads Authority"
-  ],
-  [
-    "Ethiopia",
-    "Commercial Bank of Ethiopia"
   ],
   [
     "Ethiopia",
@@ -394,10 +378,6 @@
   [
     "Iran",
     "Iranian Railways"
-  ],
-  [
-    "Iran",
-    "Telecommunication Company of Iran"
   ],
   [
     "Iran",
@@ -430,238 +410,6 @@
   [
     "UAE",
     "Emirates NBD"
-  ],
-  [
-    "Brazil",
-    "Banco Nacional de Desenvolvimento Econômico e Social"
-  ],
-  [
-    "Brazil",
-    "BNDES"
-  ],
-  [
-    "Brazil",
-    "Caixa Econômica Federal"
-  ],
-  [
-    "Brazil",
-    "Eletrobras"
-  ],
-  [
-    "Brazil",
-    "Petrobras Distribuidora"
-  ],
-  [
-    "Brazil",
-    "Infraero"
-  ],
-  [
-    "Russia",
-    "Rosatom"
-  ],
-  [
-    "Russia",
-    "Russian Railways"
-  ],
-  [
-    "Russia",
-    "RZD"
-  ],
-  [
-    "Russia",
-    "Rostec"
-  ],
-  [
-    "Russia",
-    "Aeroflot"
-  ],
-  [
-    "Russia",
-    "Russian Post"
-  ],
-  [
-    "India",
-    "State Bank of India"
-  ],
-  [
-    "India",
-    "SBI"
-  ],
-  [
-    "India",
-    "Oil and Natural Gas Corporation"
-  ],
-  [
-    "India",
-    "ONGC"
-  ],
-  [
-    "India",
-    "Indian Railways"
-  ],
-  [
-    "India",
-    "Bharat Heavy Electricals Limited"
-  ],
-  [
-    "India",
-    "BHEL"
-  ],
-  [
-    "India",
-    "Life Insurance Corporation of India"
-  ],
-  [
-    "India",
-    "LIC"
-  ],
-  [
-    "China",
-    "China National Petroleum Corporation"
-  ],
-  [
-    "China",
-    "CNPC"
-  ],
-  [
-    "China",
-    "State Grid Corporation of China"
-  ],
-  [
-    "China",
-    "China Railway Corporation"
-  ],
-  [
-    "China",
-    "China Mobile Communications Corporation"
-  ],
-  [
-    "China",
-    "China Aerospace Science and Technology Corporation"
-  ],
-  [
-    "South Africa",
-    "South African Broadcasting Corporation"
-  ],
-  [
-    "South Africa",
-    "SABC"
-  ],
-  [
-    "South Africa",
-    "Transnet"
-  ],
-  [
-    "South Africa",
-    "Eskom"
-  ],
-  [
-    "South Africa",
-    "South African Post Office"
-  ],
-  [
-    "South Africa",
-    "Denel"
-  ],
-  [
-    "Egypt",
-    "Egyptian Electricity Holding Company"
-  ],
-  [
-    "Egypt",
-    "Egyptian National Railways"
-  ],
-  [
-    "Egypt",
-    "Arab Organization for Industrialization"
-  ],
-  [
-    "Egypt",
-    "National Bank of Egypt"
-  ],
-  [
-    "Egypt",
-    "Egyptian General Petroleum Corporation"
-  ],
-  [
-    "Egypt",
-    "EGPC"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Electric Power Corporation"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Roads Authority"
-  ],
-  [
-    "Ethiopia",
-    "Commercial Bank of Ethiopia"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Airlines"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Shipping and Logistics Services"
-  ],
-  [
-    "Iran",
-    "National Iranian Oil Company"
-  ],
-  [
-    "Iran",
-    "NIOC"
-  ],
-  [
-    "Iran",
-    "Iran Air"
-  ],
-  [
-    "Iran",
-    "Iranian Railways"
-  ],
-  [
-    "Iran",
-    "Telecommunication Company of Iran"
-  ],
-  [
-    "Iran",
-    "Bank Melli Iran"
-  ],
-  [
-    "UAE",
-    "Emirates Airlines"
-  ],
-  [
-    "UAE",
-    "Abu Dhabi National Oil Company"
-  ],
-  [
-    "UAE",
-    "ADNOC"
-  ],
-  [
-    "UAE",
-    "Dubai Electricity and Water Authority"
-  ],
-  [
-    "UAE",
-    "DEWA"
-  ],
-  [
-    "UAE",
-    "Etihad Airways"
-  ],
-  [
-    "UAE",
-    "Emirates NBD"
-  ],
-  [
-    "Brazil",
-    "Banco do Brasil"
   ],
   [
     "Brazil",
@@ -893,15 +641,7 @@
   ],
   [
     "Ethiopia",
-    "Ethiopian Electric Utility"
-  ],
-  [
-    "Ethiopia",
     "Ethiopian Sugar Corporation"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Roads Authority"
   ],
   [
     "Iran",
@@ -926,18 +666,6 @@
   [
     "UAE",
     "Mashreq Bank"
-  ],
-  [
-    "UAE",
-    "Emirates NBD"
-  ],
-  [
-    "UAE",
-    "Dubai Electricity and Water Authority"
-  ],
-  [
-    "UAE",
-    "DEWA"
   ],
   [
     "UAE",
@@ -1005,10 +733,6 @@
   ],
   [
     "Brazil",
-    "Petrobras"
-  ],
-  [
-    "Brazil",
     "PETR4"
   ],
   [
@@ -1025,15 +749,7 @@
   ],
   [
     "Russia",
-    "Gazprom"
-  ],
-  [
-    "Russia",
     "GAZP"
-  ],
-  [
-    "Russia",
-    "Sberbank"
   ],
   [
     "Russia",
@@ -1049,10 +765,6 @@
   ],
   [
     "Russia",
-    "VTB Bank"
-  ],
-  [
-    "Russia",
     "VTBR"
   ],
   [
@@ -1062,10 +774,6 @@
   [
     "Russia",
     "ALRS"
-  ],
-  [
-    "India",
-    "State Bank of India"
   ],
   [
     "India",
@@ -1226,10 +934,6 @@
   [
     "Ethiopia",
     "Ethio Lease"
-  ],
-  [
-    "Iran",
-    "Parsian Bank"
   ],
   [
     "Iran",
@@ -1481,14 +1185,6 @@
   ],
   [
     "China",
-    "China National Offshore Oil Corporation"
-  ],
-  [
-    "China",
-    "CNOOC"
-  ],
-  [
-    "China",
     "China National Machinery Industry Corporation"
   ],
   [
@@ -1510,14 +1206,6 @@
   [
     "South Africa",
     "MTN"
-  ],
-  [
-    "South Africa",
-    "Discovery Limited"
-  ],
-  [
-    "South Africa",
-    "DSY"
   ],
   [
     "South Africa",
@@ -1576,48 +1264,12 @@
     "ECTE.CA"
   ],
   [
-    "Egypt",
-    "Egyptian General Petroleum Corporation"
-  ],
-  [
-    "Egypt",
-    "EGPC"
-  ],
-  [
-    "Ethiopia",
-    "Ethiopian Airlines"
-  ],
-  [
-    "Ethiopia",
-    "Commercial Bank of Ethiopia"
-  ],
-  [
-    "Ethiopia",
-    "Ethio Telecom"
-  ],
-  [
     "Ethiopia",
     "Ethiopian Electric Power"
   ],
   [
     "Iran",
-    "National Iranian Oil Company"
-  ],
-  [
-    "Iran",
-    "Iran Khodro"
-  ],
-  [
-    "Iran",
     "Mobarakeh Steel Company"
-  ],
-  [
-    "Iran",
-    "MAPNA Group"
-  ],
-  [
-    "Iran",
-    "Iran Air"
   ],
   [
     "UAE",
@@ -1634,14 +1286,6 @@
   [
     "UAE",
     "EMAAR.DU"
-  ],
-  [
-    "UAE",
-    "Abu Dhabi National Oil Company"
-  ],
-  [
-    "UAE",
-    "ADNOC"
   ],
   [
     "Indonesia",
