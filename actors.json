@@ -1,0 +1,1686 @@
+[
+  [
+    "Brazil",
+    "Banco do Brasil"
+  ],
+  [
+    "Brazil",
+    "BB"
+  ],
+  [
+    "Brazil",
+    "Petrobras"
+  ],
+  [
+    "Brazil",
+    "BNDESPar"
+  ],
+  [
+    "Brazil",
+    "Empresa Brasil de Comunicação"
+  ],
+  [
+    "Brazil",
+    "EBC"
+  ],
+  [
+    "Russia",
+    "Gazprom"
+  ],
+  [
+    "Russia",
+    "Sberbank"
+  ],
+  [
+    "Russia",
+    "VTB Bank"
+  ],
+  [
+    "Russia",
+    "RusHydro"
+  ],
+  [
+    "Russia",
+    "Russian Post"
+  ],
+  [
+    "Russia",
+    "VEB.RF"
+  ],
+  [
+    "India",
+    "National Thermal Power Corporation"
+  ],
+  [
+    "India",
+    "NTPC"
+  ],
+  [
+    "India",
+    "Bharat Petroleum Corporation Limited"
+  ],
+  [
+    "India",
+    "BPCL"
+  ],
+  [
+    "India",
+    "Coal India Limited"
+  ],
+  [
+    "India",
+    "CIL"
+  ],
+  [
+    "China",
+    "China National Offshore Oil Corporation"
+  ],
+  [
+    "China",
+    "CNOOC"
+  ],
+  [
+    "China",
+    "China Southern Power Grid"
+  ],
+  [
+    "China",
+    "China National Nuclear Corporation"
+  ],
+  [
+    "China",
+    "CNNC"
+  ],
+  [
+    "China",
+    "China Telecom"
+  ],
+  [
+    "South Africa",
+    "South African National Roads Agency"
+  ],
+  [
+    "South Africa",
+    "SANRAL"
+  ],
+  [
+    "South Africa",
+    "South African Airways"
+  ],
+  [
+    "South Africa",
+    "SAA"
+  ],
+  [
+    "South Africa",
+    "Development Bank of Southern Africa"
+  ],
+  [
+    "South Africa",
+    "DBSA"
+  ],
+  [
+    "Egypt",
+    "National Telecom Regulatory Authority"
+  ],
+  [
+    "Egypt",
+    "NTRA"
+  ],
+  [
+    "Egypt",
+    "Suez Canal Authority"
+  ],
+  [
+    "Egypt",
+    "National Bank of Egypt"
+  ],
+  [
+    "Egypt",
+    "NBE"
+  ],
+  [
+    "Egypt",
+    "Cairo Electricity Production Company"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Electric Utility"
+  ],
+  [
+    "Ethiopia",
+    "Commercial Bank of Ethiopia"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Roads Authority"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Postal Service"
+  ],
+  [
+    "Ethiopia",
+    "Ethio Telecom"
+  ],
+  [
+    "Iran",
+    "Iran Khodro"
+  ],
+  [
+    "Iran",
+    "Telecommunication Company of Iran"
+  ],
+  [
+    "Iran",
+    "Parsian Bank"
+  ],
+  [
+    "Iran",
+    "Pasargad Bank"
+  ],
+  [
+    "Iran",
+    "Melli Bank"
+  ],
+  [
+    "UAE",
+    "Emirates Nuclear Energy Corporation"
+  ],
+  [
+    "UAE",
+    "ENEC"
+  ],
+  [
+    "UAE",
+    "Dubai Airports"
+  ],
+  [
+    "UAE",
+    "Abu Dhabi Ports Company"
+  ],
+  [
+    "UAE",
+    "Mubadala Investment Company"
+  ],
+  [
+    "Brazil",
+    "Banco Nacional de Desenvolvimento Econômico e Social"
+  ],
+  [
+    "Brazil",
+    "BNDES"
+  ],
+  [
+    "Brazil",
+    "Caixa Econômica Federal"
+  ],
+  [
+    "Brazil",
+    "Eletrobras"
+  ],
+  [
+    "Brazil",
+    "Petrobras Distribuidora"
+  ],
+  [
+    "Brazil",
+    "Infraero"
+  ],
+  [
+    "Russia",
+    "Rosatom"
+  ],
+  [
+    "Russia",
+    "Russian Railways"
+  ],
+  [
+    "Russia",
+    "RZD"
+  ],
+  [
+    "Russia",
+    "Rostec"
+  ],
+  [
+    "Russia",
+    "Aeroflot"
+  ],
+  [
+    "Russia",
+    "Russian Post"
+  ],
+  [
+    "India",
+    "State Bank of India"
+  ],
+  [
+    "India",
+    "SBI"
+  ],
+  [
+    "India",
+    "Oil and Natural Gas Corporation"
+  ],
+  [
+    "India",
+    "ONGC"
+  ],
+  [
+    "India",
+    "Indian Railways"
+  ],
+  [
+    "India",
+    "Bharat Heavy Electricals Limited"
+  ],
+  [
+    "India",
+    "BHEL"
+  ],
+  [
+    "India",
+    "Life Insurance Corporation of India"
+  ],
+  [
+    "India",
+    "LIC"
+  ],
+  [
+    "China",
+    "China National Petroleum Corporation"
+  ],
+  [
+    "China",
+    "CNPC"
+  ],
+  [
+    "China",
+    "State Grid Corporation of China"
+  ],
+  [
+    "China",
+    "China Railway Corporation"
+  ],
+  [
+    "China",
+    "China Mobile Communications Corporation"
+  ],
+  [
+    "China",
+    "China Aerospace Science and Technology Corporation"
+  ],
+  [
+    "South Africa",
+    "South African Broadcasting Corporation"
+  ],
+  [
+    "South Africa",
+    "SABC"
+  ],
+  [
+    "South Africa",
+    "Transnet"
+  ],
+  [
+    "South Africa",
+    "Eskom"
+  ],
+  [
+    "South Africa",
+    "South African Post Office"
+  ],
+  [
+    "South Africa",
+    "Denel"
+  ],
+  [
+    "Egypt",
+    "Egyptian Electricity Holding Company"
+  ],
+  [
+    "Egypt",
+    "Egyptian National Railways"
+  ],
+  [
+    "Egypt",
+    "Arab Organization for Industrialization"
+  ],
+  [
+    "Egypt",
+    "National Bank of Egypt"
+  ],
+  [
+    "Egypt",
+    "Egyptian General Petroleum Corporation"
+  ],
+  [
+    "Egypt",
+    "EGPC"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Electric Power Corporation"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Roads Authority"
+  ],
+  [
+    "Ethiopia",
+    "Commercial Bank of Ethiopia"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Airlines"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Shipping and Logistics Services"
+  ],
+  [
+    "Iran",
+    "National Iranian Oil Company"
+  ],
+  [
+    "Iran",
+    "NIOC"
+  ],
+  [
+    "Iran",
+    "Iran Air"
+  ],
+  [
+    "Iran",
+    "Iranian Railways"
+  ],
+  [
+    "Iran",
+    "Telecommunication Company of Iran"
+  ],
+  [
+    "Iran",
+    "Bank Melli Iran"
+  ],
+  [
+    "UAE",
+    "Emirates Airlines"
+  ],
+  [
+    "UAE",
+    "Abu Dhabi National Oil Company"
+  ],
+  [
+    "UAE",
+    "ADNOC"
+  ],
+  [
+    "UAE",
+    "Dubai Electricity and Water Authority"
+  ],
+  [
+    "UAE",
+    "DEWA"
+  ],
+  [
+    "UAE",
+    "Etihad Airways"
+  ],
+  [
+    "UAE",
+    "Emirates NBD"
+  ],
+  [
+    "Brazil",
+    "Banco Nacional de Desenvolvimento Econômico e Social"
+  ],
+  [
+    "Brazil",
+    "BNDES"
+  ],
+  [
+    "Brazil",
+    "Caixa Econômica Federal"
+  ],
+  [
+    "Brazil",
+    "Eletrobras"
+  ],
+  [
+    "Brazil",
+    "Petrobras Distribuidora"
+  ],
+  [
+    "Brazil",
+    "Infraero"
+  ],
+  [
+    "Russia",
+    "Rosatom"
+  ],
+  [
+    "Russia",
+    "Russian Railways"
+  ],
+  [
+    "Russia",
+    "RZD"
+  ],
+  [
+    "Russia",
+    "Rostec"
+  ],
+  [
+    "Russia",
+    "Aeroflot"
+  ],
+  [
+    "Russia",
+    "Russian Post"
+  ],
+  [
+    "India",
+    "State Bank of India"
+  ],
+  [
+    "India",
+    "SBI"
+  ],
+  [
+    "India",
+    "Oil and Natural Gas Corporation"
+  ],
+  [
+    "India",
+    "ONGC"
+  ],
+  [
+    "India",
+    "Indian Railways"
+  ],
+  [
+    "India",
+    "Bharat Heavy Electricals Limited"
+  ],
+  [
+    "India",
+    "BHEL"
+  ],
+  [
+    "India",
+    "Life Insurance Corporation of India"
+  ],
+  [
+    "India",
+    "LIC"
+  ],
+  [
+    "China",
+    "China National Petroleum Corporation"
+  ],
+  [
+    "China",
+    "CNPC"
+  ],
+  [
+    "China",
+    "State Grid Corporation of China"
+  ],
+  [
+    "China",
+    "China Railway Corporation"
+  ],
+  [
+    "China",
+    "China Mobile Communications Corporation"
+  ],
+  [
+    "China",
+    "China Aerospace Science and Technology Corporation"
+  ],
+  [
+    "South Africa",
+    "South African Broadcasting Corporation"
+  ],
+  [
+    "South Africa",
+    "SABC"
+  ],
+  [
+    "South Africa",
+    "Transnet"
+  ],
+  [
+    "South Africa",
+    "Eskom"
+  ],
+  [
+    "South Africa",
+    "South African Post Office"
+  ],
+  [
+    "South Africa",
+    "Denel"
+  ],
+  [
+    "Egypt",
+    "Egyptian Electricity Holding Company"
+  ],
+  [
+    "Egypt",
+    "Egyptian National Railways"
+  ],
+  [
+    "Egypt",
+    "Arab Organization for Industrialization"
+  ],
+  [
+    "Egypt",
+    "National Bank of Egypt"
+  ],
+  [
+    "Egypt",
+    "Egyptian General Petroleum Corporation"
+  ],
+  [
+    "Egypt",
+    "EGPC"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Electric Power Corporation"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Roads Authority"
+  ],
+  [
+    "Ethiopia",
+    "Commercial Bank of Ethiopia"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Airlines"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Shipping and Logistics Services"
+  ],
+  [
+    "Iran",
+    "National Iranian Oil Company"
+  ],
+  [
+    "Iran",
+    "NIOC"
+  ],
+  [
+    "Iran",
+    "Iran Air"
+  ],
+  [
+    "Iran",
+    "Iranian Railways"
+  ],
+  [
+    "Iran",
+    "Telecommunication Company of Iran"
+  ],
+  [
+    "Iran",
+    "Bank Melli Iran"
+  ],
+  [
+    "UAE",
+    "Emirates Airlines"
+  ],
+  [
+    "UAE",
+    "Abu Dhabi National Oil Company"
+  ],
+  [
+    "UAE",
+    "ADNOC"
+  ],
+  [
+    "UAE",
+    "Dubai Electricity and Water Authority"
+  ],
+  [
+    "UAE",
+    "DEWA"
+  ],
+  [
+    "UAE",
+    "Etihad Airways"
+  ],
+  [
+    "UAE",
+    "Emirates NBD"
+  ],
+  [
+    "Brazil",
+    "Banco do Brasil"
+  ],
+  [
+    "Brazil",
+    "BBAS3"
+  ],
+  [
+    "Brazil",
+    "Cemig"
+  ],
+  [
+    "Brazil",
+    "CMIG4"
+  ],
+  [
+    "Brazil",
+    "Gerdau"
+  ],
+  [
+    "Brazil",
+    "GGBR4"
+  ],
+  [
+    "Brazil",
+    "Itaúsa"
+  ],
+  [
+    "Brazil",
+    "ITSA4"
+  ],
+  [
+    "Brazil",
+    "CCR S.A."
+  ],
+  [
+    "Russia",
+    "Severstal"
+  ],
+  [
+    "Russia",
+    "CHMF"
+  ],
+  [
+    "Russia",
+    "Tatneft"
+  ],
+  [
+    "Russia",
+    "TATN"
+  ],
+  [
+    "Russia",
+    "Rostec Corporation"
+  ],
+  [
+    "Russia",
+    "Transneft"
+  ],
+  [
+    "Russia",
+    "Magnet Bank"
+  ],
+  [
+    "Russia",
+    "MMK"
+  ],
+  [
+    "Russia",
+    "Norilsk Nickel"
+  ],
+  [
+    "Russia",
+    "GMKN"
+  ],
+  [
+    "India",
+    "Coal India"
+  ],
+  [
+    "India",
+    "COALINDIA"
+  ],
+  [
+    "India",
+    "Marico"
+  ],
+  [
+    "India",
+    "MARICO"
+  ],
+  [
+    "India",
+    "Hero MotoCorp"
+  ],
+  [
+    "India",
+    "HEROMOTOCO"
+  ],
+  [
+    "India",
+    "Dr. Reddy's Laboratories"
+  ],
+  [
+    "India",
+    "DRREDDY"
+  ],
+  [
+    "India",
+    "Tata Motors"
+  ],
+  [
+    "India",
+    "TATAMOTORS"
+  ],
+  [
+    "China",
+    "China Merchants Bank"
+  ],
+  [
+    "China",
+    "600036.SS"
+  ],
+  [
+    "China",
+    "Industrial Bank Co."
+  ],
+  [
+    "China",
+    "601166.SS"
+  ],
+  [
+    "China",
+    "China Pacific Insurance"
+  ],
+  [
+    "China",
+    "2601.HK"
+  ],
+  [
+    "China",
+    "Haier Smart Home"
+  ],
+  [
+    "China",
+    "600690.SS"
+  ],
+  [
+    "China",
+    "Lenovo Group"
+  ],
+  [
+    "China",
+    "0992.HK"
+  ],
+  [
+    "South Africa",
+    "Old Mutual"
+  ],
+  [
+    "South Africa",
+    "OMU"
+  ],
+  [
+    "South Africa",
+    "Discovery Limited"
+  ],
+  [
+    "South Africa",
+    "DSY"
+  ],
+  [
+    "South Africa",
+    "Nedbank"
+  ],
+  [
+    "South Africa",
+    "NED"
+  ],
+  [
+    "South Africa",
+    "Shoprite"
+  ],
+  [
+    "South Africa",
+    "SHP"
+  ],
+  [
+    "South Africa",
+    "PPC Ltd"
+  ],
+  [
+    "South Africa",
+    "PPC"
+  ],
+  [
+    "Egypt",
+    "Orascom Telecom"
+  ],
+  [
+    "Egypt",
+    "OTMT.CA"
+  ],
+  [
+    "Egypt",
+    "Egyptian Fertilizers Company"
+  ],
+  [
+    "Egypt",
+    "EFCI.CA"
+  ],
+  [
+    "Egypt",
+    "Egypt Kuwait Holding"
+  ],
+  [
+    "Egypt",
+    "EKHO.CA"
+  ],
+  [
+    "Egypt",
+    "Sidi Kerir Petrochemicals"
+  ],
+  [
+    "Egypt",
+    "SKPC.CA"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Shipping Lines"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Electric Utility"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Sugar Corporation"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Roads Authority"
+  ],
+  [
+    "Iran",
+    "Bank Mellat"
+  ],
+  [
+    "Iran",
+    "Bank Pasargad"
+  ],
+  [
+    "Iran",
+    "Saipa"
+  ],
+  [
+    "Iran",
+    "Iran Telecommunication Company"
+  ],
+  [
+    "Iran",
+    "MAPNA Group"
+  ],
+  [
+    "UAE",
+    "Mashreq Bank"
+  ],
+  [
+    "UAE",
+    "Emirates NBD"
+  ],
+  [
+    "UAE",
+    "Dubai Electricity and Water Authority"
+  ],
+  [
+    "UAE",
+    "DEWA"
+  ],
+  [
+    "UAE",
+    "Aldar Properties"
+  ],
+  [
+    "UAE",
+    "ADY"
+  ],
+  [
+    "Indonesia",
+    "Bukit Asam"
+  ],
+  [
+    "Indonesia",
+    "PTBA.JK"
+  ],
+  [
+    "Indonesia",
+    "Surya Citra Media"
+  ],
+  [
+    "Indonesia",
+    "SCMA.JK"
+  ],
+  [
+    "Indonesia",
+    "Indocement Tunggal Prakarsa"
+  ],
+  [
+    "Indonesia",
+    "INTP.JK"
+  ],
+  [
+    "Indonesia",
+    "Waskita Karya"
+  ],
+  [
+    "Indonesia",
+    "WSKT.JK"
+  ],
+  [
+    "Indonesia",
+    "Mitra Keluarga Karyasehat"
+  ],
+  [
+    "Indonesia",
+    "MIKA.JK"
+  ],
+  [
+    "Brazil",
+    "Vale S.A."
+  ],
+  [
+    "Brazil",
+    "VALE3"
+  ],
+  [
+    "Brazil",
+    "Itaú Unibanco"
+  ],
+  [
+    "Brazil",
+    "ITUB4"
+  ],
+  [
+    "Brazil",
+    "Petrobras"
+  ],
+  [
+    "Brazil",
+    "PETR4"
+  ],
+  [
+    "Brazil",
+    "Suzano S.A."
+  ],
+  [
+    "Brazil",
+    "SUZB3"
+  ],
+  [
+    "Brazil",
+    "Embraer"
+  ],
+  [
+    "Russia",
+    "Gazprom"
+  ],
+  [
+    "Russia",
+    "GAZP"
+  ],
+  [
+    "Russia",
+    "Sberbank"
+  ],
+  [
+    "Russia",
+    "SBER"
+  ],
+  [
+    "Russia",
+    "Rosneft"
+  ],
+  [
+    "Russia",
+    "ROSN"
+  ],
+  [
+    "Russia",
+    "VTB Bank"
+  ],
+  [
+    "Russia",
+    "VTBR"
+  ],
+  [
+    "Russia",
+    "Alrosa"
+  ],
+  [
+    "Russia",
+    "ALRS"
+  ],
+  [
+    "India",
+    "State Bank of India"
+  ],
+  [
+    "India",
+    "SBIN"
+  ],
+  [
+    "India",
+    "Tata Steel"
+  ],
+  [
+    "India",
+    "TATASTEEL"
+  ],
+  [
+    "India",
+    "Infosys"
+  ],
+  [
+    "India",
+    "INFY"
+  ],
+  [
+    "India",
+    "Reliance Industries"
+  ],
+  [
+    "India",
+    "RELIANCE"
+  ],
+  [
+    "India",
+    "Axis Bank"
+  ],
+  [
+    "India",
+    "AXISBANK"
+  ],
+  [
+    "China",
+    "Alibaba Group"
+  ],
+  [
+    "China",
+    "BABA"
+  ],
+  [
+    "China",
+    "Tencent Holdings"
+  ],
+  [
+    "China",
+    "0700.HK"
+  ],
+  [
+    "China",
+    "BYD Company"
+  ],
+  [
+    "China",
+    "1211.HK"
+  ],
+  [
+    "China",
+    "China Mobile"
+  ],
+  [
+    "China",
+    "0941.HK"
+  ],
+  [
+    "China",
+    "China State Construction Engineering"
+  ],
+  [
+    "China",
+    "601668.SS"
+  ],
+  [
+    "South Africa",
+    "Naspers"
+  ],
+  [
+    "South Africa",
+    "NPN"
+  ],
+  [
+    "South Africa",
+    "Standard Bank Group"
+  ],
+  [
+    "South Africa",
+    "SBK"
+  ],
+  [
+    "South Africa",
+    "Sasol"
+  ],
+  [
+    "South Africa",
+    "SOL"
+  ],
+  [
+    "South Africa",
+    "Woolworths Holdings"
+  ],
+  [
+    "South Africa",
+    "WHL"
+  ],
+  [
+    "South Africa",
+    "Tiger Brands"
+  ],
+  [
+    "South Africa",
+    "TBS"
+  ],
+  [
+    "Egypt",
+    "Telecom Egypt"
+  ],
+  [
+    "Egypt",
+    "ETEL.CA"
+  ],
+  [
+    "Egypt",
+    "Juhayna Food Industries"
+  ],
+  [
+    "Egypt",
+    "JUFO.CA"
+  ],
+  [
+    "Egypt",
+    "Ezz Steel"
+  ],
+  [
+    "Egypt",
+    "ESRS.CA"
+  ],
+  [
+    "Egypt",
+    "Qalaa Holdings"
+  ],
+  [
+    "Ethiopia",
+    "Dashen Bank"
+  ],
+  [
+    "Ethiopia",
+    "Awash Bank"
+  ],
+  [
+    "Ethiopia",
+    "National Oil Ethiopia"
+  ],
+  [
+    "Ethiopia",
+    "Ethio Lease"
+  ],
+  [
+    "Iran",
+    "Parsian Bank"
+  ],
+  [
+    "Iran",
+    "Mahan Air"
+  ],
+  [
+    "Iran",
+    "Kerman Motor"
+  ],
+  [
+    "Iran",
+    "Mapna Group"
+  ],
+  [
+    "UAE",
+    "Dubai Islamic Bank"
+  ],
+  [
+    "UAE",
+    "DIB.DU"
+  ],
+  [
+    "UAE",
+    "Etisalat"
+  ],
+  [
+    "UAE",
+    "ETISALAT"
+  ],
+  [
+    "UAE",
+    "First Abu Dhabi Bank"
+  ],
+  [
+    "UAE",
+    "FAB"
+  ],
+  [
+    "Indonesia",
+    "Indofood Sukses Makmur"
+  ],
+  [
+    "Indonesia",
+    "INDF.JK"
+  ],
+  [
+    "Indonesia",
+    "Unilever Indonesia"
+  ],
+  [
+    "Indonesia",
+    "UNVR.JK"
+  ],
+  [
+    "Indonesia",
+    "Bank Central Asia"
+  ],
+  [
+    "Indonesia",
+    "BBCA.JK"
+  ],
+  [
+    "Indonesia",
+    "Medco Energi Internasional"
+  ],
+  [
+    "Indonesia",
+    "MEDC.JK"
+  ],
+  [
+    "Indonesia",
+    "Indah Kiat Pulp & Paper"
+  ],
+  [
+    "Indonesia",
+    "INKP.JK"
+  ],
+  [
+    "Brazil",
+    "BRF S.A."
+  ],
+  [
+    "Brazil",
+    "BRFS3"
+  ],
+  [
+    "Brazil",
+    "Banco Bradesco"
+  ],
+  [
+    "Brazil",
+    "BBDC4"
+  ],
+  [
+    "Brazil",
+    "Natura &Co"
+  ],
+  [
+    "Brazil",
+    "NTCO3"
+  ],
+  [
+    "Brazil",
+    "Embrapar"
+  ],
+  [
+    "Brazil",
+    "CPFL Energia"
+  ],
+  [
+    "Brazil",
+    "CPFE3"
+  ],
+  [
+    "Brazil",
+    "Cielo S.A."
+  ],
+  [
+    "Brazil",
+    "CIEL3"
+  ],
+  [
+    "Russia",
+    "Lukoil"
+  ],
+  [
+    "Russia",
+    "LKOH"
+  ],
+  [
+    "Russia",
+    "Novatek"
+  ],
+  [
+    "Russia",
+    "NVTK"
+  ],
+  [
+    "Russia",
+    "Magnit"
+  ],
+  [
+    "Russia",
+    "MGNT"
+  ],
+  [
+    "Russia",
+    "Mail.ru Group"
+  ],
+  [
+    "Russia",
+    "MAIL"
+  ],
+  [
+    "Russia",
+    "PhosAgro"
+  ],
+  [
+    "Russia",
+    "PHOR"
+  ],
+  [
+    "India",
+    "Adani Group"
+  ],
+  [
+    "India",
+    "HDFC Bank"
+  ],
+  [
+    "India",
+    "HDFCBANK"
+  ],
+  [
+    "India",
+    "Bharti Airtel"
+  ],
+  [
+    "India",
+    "BHARTIARTL"
+  ],
+  [
+    "India",
+    "Larsen & Toubro"
+  ],
+  [
+    "India",
+    "LT"
+  ],
+  [
+    "India",
+    "Maruti Suzuki"
+  ],
+  [
+    "India",
+    "MSIL"
+  ],
+  [
+    "India",
+    "GAIL (India) Limited"
+  ],
+  [
+    "India",
+    "GAIL"
+  ],
+  [
+    "China",
+    "Ping An Insurance"
+  ],
+  [
+    "China",
+    "2318.HK"
+  ],
+  [
+    "China",
+    "China Life Insurance"
+  ],
+  [
+    "China",
+    "601628.SS"
+  ],
+  [
+    "China",
+    "JD.com"
+  ],
+  [
+    "China",
+    "JD"
+  ],
+  [
+    "China",
+    "Meituan"
+  ],
+  [
+    "China",
+    "3690.HK"
+  ],
+  [
+    "China",
+    "China Southern Airlines"
+  ],
+  [
+    "China",
+    "ZTE Corporation"
+  ],
+  [
+    "China",
+    "000063.SZ"
+  ],
+  [
+    "China",
+    "China National Offshore Oil Corporation"
+  ],
+  [
+    "China",
+    "CNOOC"
+  ],
+  [
+    "China",
+    "China National Machinery Industry Corporation"
+  ],
+  [
+    "China",
+    "Sinochem Group"
+  ],
+  [
+    "South Africa",
+    "Capitec Bank"
+  ],
+  [
+    "South Africa",
+    "CPI"
+  ],
+  [
+    "South Africa",
+    "MTN Group"
+  ],
+  [
+    "South Africa",
+    "MTN"
+  ],
+  [
+    "South Africa",
+    "Discovery Limited"
+  ],
+  [
+    "South Africa",
+    "DSY"
+  ],
+  [
+    "South Africa",
+    "Bidvest Group"
+  ],
+  [
+    "South Africa",
+    "Bidvest"
+  ],
+  [
+    "South Africa",
+    "Sappi Limited"
+  ],
+  [
+    "South Africa",
+    "SAP"
+  ],
+  [
+    "South Africa",
+    "Imperial Logistics"
+  ],
+  [
+    "South Africa",
+    "Alexkor"
+  ],
+  [
+    "South Africa",
+    "South African National Defence Force"
+  ],
+  [
+    "South Africa",
+    "SANDF"
+  ],
+  [
+    "Egypt",
+    "Commercial International Bank"
+  ],
+  [
+    "Egypt",
+    "COMI.CA"
+  ],
+  [
+    "Egypt",
+    "Orascom Construction"
+  ],
+  [
+    "Egypt",
+    "OCIC.CA"
+  ],
+  [
+    "Egypt",
+    "Eastern Company"
+  ],
+  [
+    "Egypt",
+    "ECTE.CA"
+  ],
+  [
+    "Egypt",
+    "Egyptian General Petroleum Corporation"
+  ],
+  [
+    "Egypt",
+    "EGPC"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Airlines"
+  ],
+  [
+    "Ethiopia",
+    "Commercial Bank of Ethiopia"
+  ],
+  [
+    "Ethiopia",
+    "Ethio Telecom"
+  ],
+  [
+    "Ethiopia",
+    "Ethiopian Electric Power"
+  ],
+  [
+    "Iran",
+    "National Iranian Oil Company"
+  ],
+  [
+    "Iran",
+    "Iran Khodro"
+  ],
+  [
+    "Iran",
+    "Mobarakeh Steel Company"
+  ],
+  [
+    "Iran",
+    "MAPNA Group"
+  ],
+  [
+    "Iran",
+    "Iran Air"
+  ],
+  [
+    "UAE",
+    "Emirates Airline"
+  ],
+  [
+    "UAE",
+    "DP World"
+  ],
+  [
+    "UAE",
+    "Emaar Properties"
+  ],
+  [
+    "UAE",
+    "EMAAR.DU"
+  ],
+  [
+    "UAE",
+    "Abu Dhabi National Oil Company"
+  ],
+  [
+    "UAE",
+    "ADNOC"
+  ],
+  [
+    "Indonesia",
+    "PT Pertamina"
+  ],
+  [
+    "Indonesia",
+    "Bank Rakyat Indonesia"
+  ],
+  [
+    "Indonesia",
+    "BBRI.JK"
+  ],
+  [
+    "Indonesia",
+    "Bank Mandiri"
+  ],
+  [
+    "Indonesia",
+    "BMRI.JK"
+  ],
+  [
+    "Indonesia",
+    "Telkom Indonesia"
+  ],
+  [
+    "Indonesia",
+    "TLKM.JK"
+  ],
+  [
+    "Indonesia",
+    "Astra International"
+  ],
+  [
+    "Indonesia",
+    "ASII.JK"
+  ],
+  [
+    "Indonesia",
+    "Garuda Indonesia"
+  ]
+]
